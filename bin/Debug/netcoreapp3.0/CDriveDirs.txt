@@ -1,0 +1,15 @@
+$RECYCLE.BIN
+adobeTemp
+Documents and Settings
+Games
+GOG Games
+Intel
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows
